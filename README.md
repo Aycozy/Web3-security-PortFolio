@@ -31,7 +31,10 @@ Overall        |	High risk	 | Medium risk	  | Low Risks
 | Contest                   | Description                                                                                                                                                                          | Platform  | Alias |  Report | Bug                                                                                                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| Venus Prime                 | Venus prime is a lending and borrowing protocol which enables user to earn staking rewards after making deposits in the governance vaults. |Code4rena| aycozynfada    | [Link]([https://audits.sherlock.xyz/contests/120/report](https://code4rena.com/reports/2023-09-venus))                                                                                                 
+| Venus Prime       | Venus prime is a lending and borrowing protocol which enables user to earn staking rewards after making deposits in the governance vaults. |  Code4rena   | aycozynfada    | [Link]([https://audits.sherlock.xyz/contests/120/report](https://code4rena.com/reports/2023-09-venus))                                                                                                 
+
+
+
 
 
 | Aloe                 | Aloe II is a supercharged money market where borrowers can manage Uniswap V3 positions on margin, giving market makers superior access to capital and generating higher yields for lenders. |Code4rena| aycozynfada    | [Link](https://audits.sherlock.xyz/contests/120/report)                                                                                                   |
