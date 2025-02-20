@@ -34,7 +34,7 @@ Overall        |	High risk	 | Medium risk	  | Low Risks
 | Smart wallet              | Smart wallet integration for coinbase accounts.                                         | Code4rena   | aycozynfada    | [Link](https://code4rena.com/audits/2024-03-smart-wallet) | H    
 | Chainlink Liquid staking               | delegated staking platform delivering DeFi composability for Chainlink Staking.                                          | CodeHawks   | aycozynfada    | [Link](https://codehawks.cyfrin.io/c/2024-09-stakelink) | 1 H 1 M
 | Autonomint Coloured Dollar V1              | Delta-neutral stablecoin for lending and borrowing.                                          | Sherlock   | aycozyOx    | [Link](https://audits.sherlock.xyz/contests/569/report) | 1 H 
-| Ethos financial contracts             | Onchain social reputation platform.                                         | Sherlock   | aycozyOx    | [Link][(https://audits.sherlock.xyz/contests/675/report) | 1 H 
+| Ethos financial contracts             | Onchain social reputation platform.                                         | Sherlock   | aycozyOx    | [Link](https://audits.sherlock.xyz/contests/675/report) | 1 H 
 
 
 
