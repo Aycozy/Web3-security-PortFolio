@@ -21,7 +21,7 @@ Hello 👋, This is oxPreacher! As an independent blockchain security researcher
 
 Overall        |	High risk	 | Medium risk	  | Low Risks
 
-41 H/M         |	29 Highs	 |  12 Mediums	  |  11 Lows
+12 H/M         |	6 Highs	 |  2 Mediums	  |  4 Lows
 
 
   
