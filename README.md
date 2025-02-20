@@ -18,8 +18,10 @@ Hello 👋, This is oxPreacher! As an independent blockchain security researcher
 
 🥇 - 1st 🥈 - 2nd 🥉 - 3rd
 
-Overall	High risk	Medium risk	Low Risks
-41 High/Medium	29 Highs	12 Mediums	11 Lows
+
+Overall        |	High risk	 | Medium risk	  | Low Risks
+41 High/Medium |	29 Highs	 |  12 Mediums	  |  11 Lows
+
 
   
   
