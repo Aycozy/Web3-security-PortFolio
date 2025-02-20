@@ -7,7 +7,22 @@
 # About Aycozy
 Hello 👋, This is oxPreacher! As an independent blockchain security researcher, I participate in audit contests on platforms like Code4rena, Sherlock, and Codehawks. My goal is to protect decentralized ecosystems by uncovering and resolving vulnerabilities before they can be exploited. With deep experience in smart contract auditing, I deliver customized security insights to safeguard your projects. Whether you need to fortify your protocols or ensure a secure launch, I'm here to make your smart contracts bulletproof. Feel free to reach out to me for private audits through my social media channels, and check out my past findings and contest results below.
 
-For private audit or consulting requests please reach out to me via **Twitter** ([@aycozy](https://twitter.com/aycozy)), **Telegram** (@ggott) or **Discord** (aycozy).  
+# Contact Information
+  for jobs, security audits, or collaborations, hit me up. Let's make things happen!
+  Twitter: @aycozynfada
+  Telegram: @oOxpreacher
+  Email: gidiboye@gmail.som4@gmail.com
+
+
+# Summary - OxPreacher
+
+🥇 - 1st 🥈 - 2nd 🥉 - 3rd
+
+Overall	High risk	Medium risk	Low Risks
+41 High/Medium	29 Highs	12 Mediums	11 Lows
+
+  
+  
 
 # Competitive Audits
 | Contest                   | Description                                                                                                                                                                          | Platform  | Alias |  Report |                                                                                                                                                     |
