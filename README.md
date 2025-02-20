@@ -1,10 +1,10 @@
-# Audit Portfolio - OxPreacher
+# Audit Portfolio - Aycozynfada
 - [About Aycozy](#about-Aycozy)
 - [Competitive Audits](#competitive-audits)
 - [Private Audits](#private-audits)
 - [Immunefi](#immunefi)
 
-# About OxPreacher
+# About Aycozynfada
 Hello 👋, This is oxPreacher! As an independent blockchain security researcher, I participate in audit contests on platforms like Code4rena, Sherlock, and Codehawks. My goal is to protect decentralized ecosystems by uncovering and resolving vulnerabilities before they can be exploited. With deep experience in smart contract auditing, I deliver customized security insights to safeguard your projects. Whether you need to fortify your protocols or ensure a secure launch, I'm here to make your smart contracts bulletproof. Feel free to reach out to me for private audits through my social media channels, and check out my past findings and contest results below.
 
 # Contact Information
@@ -14,7 +14,7 @@ Hello 👋, This is oxPreacher! As an independent blockchain security researcher
   Email: gidiboye@gmail.som4@gmail.com
 
 
-# Summary - OxPreacher
+# Summary - Aycozynfada
 
 🥇 - 1st 🥈 - 2nd 🥉 - 3rd
 
@@ -31,7 +31,8 @@ Overall        |	High risk	 | Medium risk	  | Low Risks
 | Contest                   | Description                                                                                                                                                                          | Platform  | Alias |  Report | Bug                                                                                                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Venus Prime               | Venus prime is a lending and borrowing protocol which enables user to earn staking rewards after making deposits in the governance vaults.                                          | Code4rena   | aycozynfada    | [Link](https://code4rena.com/reports/2023-09-venus) | H                                                                                               
-| Smart wallet              | Smart wallet integration for coinbase accounts.                                         | Code4rena   | aycozynfada    | [Link](https://code4rena.com/audits/2024-03-smart-wallet) | H                                                                                                                                                    
+| Smart wallet              | Smart wallet integration for coinbase accounts.                                         | Code4rena   | aycozynfada    | [Link](https://code4rena.com/audits/2024-03-smart-wallet) | H    
+| Chainlink Liquid staking               | delegated staking platform delivering DeFi composability for Chainlink Staking.                                          | CodeHawks   | aycozynfada    | [Link](https://codehawks.cyfrin.io/c/2024-09-stakelink)) | 1 H 1 M
 
 
 
