@@ -5,9 +5,7 @@
 - [Immunefi](#immunefi)
 
 # About Aycozy
-I'm a top Auditor at [Code4rena](https://code4rena.com/), Watson at [Sherlock](https://www.sherlock.xyz/) and Senior Auditor at [Code Hawks](https://www.trust-security.xyz/).  
-
-My audits are performed through my alias "aycozynfada".  
+Hello 👋, This is oxPreacher! As an independent blockchain security researcher, I participate in audit contests on platforms like Code4rena, Sherlock, and Codehawks. My goal is to protect decentralized ecosystems by uncovering and resolving vulnerabilities before they can be exploited. With deep experience in smart contract auditing, I deliver customized security insights to safeguard your projects. Whether you need to fortify your protocols or ensure a secure launch, I'm here to make your smart contracts bulletproof. Feel free to reach out to me for private audits through my social media channels, and check out my past findings and contest results below.
 
 For private audit or consulting requests please reach out to me via **Twitter** ([@aycozy](https://twitter.com/aycozy)), **Telegram** (@ggott) or **Discord** (aycozy).  
 
